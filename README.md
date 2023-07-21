@@ -23,8 +23,8 @@ link 코드와 함께 input 태그에 i-datepicker 라는 속성만 추가 입�
 
 ```sh
     // ink_js js
-    <link rel="stylesheet" href="./ink_js/ink_function.js">
-    <link rel="stylesheet" href="./ink_js/ink_utill.js">
+    <script src="/ink_js/ink_utill.js"></script>
+    <script src="/ink_js/ink_function.js"></script>
 
     // ink_js html
     <button type="button" @click i-name"click_event_name" i-class="active">버튼</button>
